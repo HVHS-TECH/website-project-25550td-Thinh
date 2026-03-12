@@ -9,5 +9,7 @@ html, body{
    column-gap : 10; 
 }
 .item1{
-background-color: #404d53;
+background: #404d53;
+text-align: hellooo;
+padding: 20;
 }
