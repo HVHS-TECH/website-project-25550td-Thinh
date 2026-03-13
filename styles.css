@@ -9,7 +9,27 @@ html, body{
    column-gap : 10; 
 }
 .item1{
-background: #404d53;
+background: #6D9ED9;
 text-align: center;
-padding: 20;
+padding: 10px;
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.item2{
+    background: #6D9ED9;
+text-align: center;
+padding: 10px;
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.item3{
+    background: #6D9ED9;
+text-align: center;
+padding: 10px;
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.item4{
+ background: #9BCEEF;
+ padding: 10px;
 }
