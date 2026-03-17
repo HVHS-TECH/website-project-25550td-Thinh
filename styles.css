@@ -1,5 +1,5 @@
 html, body{
-    background-color:#D2E5EE
+    background-color:#404D53
 }
 .container {
   display: grid;
@@ -30,19 +30,19 @@ font-size: 20px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .item4{
-    background: #6D9ED9;
+    background: #D2E5EE;
 text-align: center;
 padding: 10px;
 font-size: 20px;
 }
  .item5{
-    background: #6D9ED9;
+    background: #D2E5EE;
 text-align: center;
 padding: 10px;
 font-size: 20px;
  }
  .item6{
-background: #6D9ED9;
+background: #D2E5EE;
 text-align: center;
 padding: 10px;
 font-size: 20px;
