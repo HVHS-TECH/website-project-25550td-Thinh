@@ -1,5 +1,5 @@
 html, body{
-    background-color:#404D53
+    background-color:black;
 }
 .container {
   display: grid;
@@ -48,5 +48,8 @@ padding: 10px;
 font-size: 20px;
  }
  h1 {
+ color: white;
+ }
+ p {
  color: white;
  }
