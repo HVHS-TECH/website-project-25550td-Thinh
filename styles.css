@@ -49,12 +49,14 @@ font-size: 20px;
  }
  h1 {
  color: white;
- text-align:center;
+ text-align: center;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  font-size: 50px;
  
  }
  p {
  color: white;
- text-align:center;
+ text-align: center;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  font-size: 20px;
  }
