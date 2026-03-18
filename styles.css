@@ -1,5 +1,5 @@
 html, body{
-    background-color:White;
+    background-color:black;
 }
 .container {
   display: grid;
@@ -77,11 +77,14 @@ padding: 10px;
 font-size: 20px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  }
+ .item14{
+    background-color: black;
+ }
  .item15{
     background-color: black;
  }
  .item16{
-    background-color: black;
+    background-color: #D2E5EE;
 text-align: center;
 padding: 10px;
 font-size: 20px;
@@ -91,6 +94,9 @@ font-size: 20px;
 text-align: center;
 padding: 10px;
 font-size: 20px;
+ }
+ .item18{
+    background-color: black;
  }
  h1 {
  color: white;
