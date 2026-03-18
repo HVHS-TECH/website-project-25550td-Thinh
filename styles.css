@@ -16,10 +16,9 @@ font-size: 20px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .item2{
-    
+    text-align: center
 }
 .item3{
-    background: #6D9ED9;
 text-align: center;
 padding: 10px;
 font-size: 20px;
@@ -32,19 +31,31 @@ padding: 10px;
 font-size: 20px;
 }
  .item5{
-    background: #D2E5EE;
 text-align: center;
 padding: 10px;
 font-size: 20px;
  }
  .item6{
-background: #D2E5EE;
 text-align: center;
 padding: 10px;
 font-size: 20px;
  }
  .item7{
     background: #6D9ED9;
+text-align: center;
+padding: 10px;
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .item10{
+     background-color: #D2E5EE;
+text-align: center;
+padding: 10px;
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .item13{
+    background-color: #6D9ED9;
 text-align: center;
 padding: 10px;
 font-size: 20px;
