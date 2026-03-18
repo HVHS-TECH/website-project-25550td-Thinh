@@ -9,14 +9,14 @@ html, body{
    column-gap : 10; 
 }
 .item1{
-background: #6D9ED9;
+background-color: #6D9ED9;
 text-align: center;
 padding: 10px;
 font-size: 20px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .item2{
-    text-align: center
+    background-color:black;
 }
 .item3{
 text-align: center;
@@ -25,12 +25,13 @@ font-size: 20px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .item4{
- background: #D2E5EE;
+ background-color: #D2E5EE;
 text-align: center;
 padding: 10px;
 font-size: 20px;
 }
  .item5{
+    background-color: #D2E5EE;
 text-align: center;
 padding: 10px;
 font-size: 20px;
@@ -41,7 +42,7 @@ padding: 10px;
 font-size: 20px;
  }
  .item7{
-    background: #6D9ED9;
+    background-color: #6D9ED9;
 text-align: center;
 padding: 10px;
 font-size: 20px;
@@ -67,6 +68,12 @@ font-size: 20px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  }
  .item16{
+    background-color: #D2E5EE;
+text-align: center;
+padding: 10px;
+font-size: 20px;
+ }
+ .item17{
     background-color: #D2E5EE;
 text-align: center;
 padding: 10px;
