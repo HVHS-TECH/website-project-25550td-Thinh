@@ -67,6 +67,9 @@ text-align: center;
 padding: 10px;
 font-size: 20px;
  }
+ .item12{
+    background-color:black;
+ }
  .item13{
     background-color: #6D9ED9;
 text-align: center;
@@ -74,8 +77,11 @@ padding: 10px;
 font-size: 20px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  }
+ .item15{
+    background-color: black;
+ }
  .item16{
-    background-color: #D2E5EE;
+    background-color: black;
 text-align: center;
 padding: 10px;
 font-size: 20px;
