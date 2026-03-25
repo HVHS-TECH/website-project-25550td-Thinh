@@ -19,10 +19,10 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color:#6D9ED9;
 }
 .item3{
- background-color: black;
+ background-color: red;
 text-align: center;
 padding: 10px;
-font-size: 20px;
+font-size: 20px; 
 }
 .item4{
  background-color: #D2E5EE;
@@ -114,5 +114,20 @@ color:navy;
  text-align: center;
  padding: 20px;
  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-size: 20px;
+ }
+ .nav1{
+   text-align:center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-size: 20px;
+ }
+ .nav2{
+   text-align:center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-size: 20px;
+ }
+ .nav3{
+   text-align:center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  font-size: 20px;
  }
