@@ -83,6 +83,9 @@ color:navy
  }
  .item12{
     background-color: red;
+    text-align: center;
+    padding: 4px;
+    font-size: 16px;
     width: 80px;
     height: 40px;
     justify-self: center;
@@ -100,6 +103,9 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  }
  .item15{
     background-color: red;
+    text-align: center;
+    padding: 4px;
+    font-size: 16px;
     width: 80px;
     height: 40px;
     justify-self: center;
@@ -120,6 +126,9 @@ color:navy;
  }
  .item18{
     background-color: red;
+    text-align: center;
+    padding: 4px;
+    font-size: 16px;
     width: 80px;
     height: 40px;
     justify-self: center;
