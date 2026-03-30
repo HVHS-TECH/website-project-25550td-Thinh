@@ -44,8 +44,12 @@ color: navy;
  .item6{
     background-color: red;
 text-align: center;
-padding: 10px;
-font-size: 20px;
+padding: 4px;
+font-size: 16px;
+width: 80px;
+height: 40px;
+justify-self: center;
+align-self: center;
  }
  .item7{
     background-color: #6D9ED9;
@@ -59,6 +63,10 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  }
  .item9{
     background-color: red;
+    width: 80px;
+    height: 40px;
+    justify-self: center;
+    align-self: center;
  }
  .item10{
      background-color: #D2E5EE;
@@ -75,6 +83,10 @@ color:navy
  }
  .item12{
     background-color: red;
+    width: 80px;
+    height: 40px;
+    justify-self: center;
+    align-self: center;
  }
  .item13{
     background-color: #6D9ED9;
@@ -88,6 +100,10 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  }
  .item15{
     background-color: red;
+    width: 80px;
+    height: 40px;
+    justify-self: center;
+    align-self: center;
  }
  .item16{
     background-color: #D2E5EE;
@@ -104,6 +120,10 @@ color:navy;
  }
  .item18{
     background-color: red;
+    width: 80px;
+    height: 40px;
+    justify-self: center;
+    align-self: center;
  }
  h1 {
  color: white;
