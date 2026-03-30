@@ -42,7 +42,7 @@ font-size: 20px;
 color: navy;
  }
  .item6{
-    background-color: black;
+    background-color: red;
 text-align: center;
 padding: 10px;
 font-size: 20px;
@@ -58,7 +58,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #6D9ED9;
  }
  .item9{
-    background-color:black
+    background-color: red;
  }
  .item10{
      background-color: #D2E5EE;
@@ -74,7 +74,7 @@ font-size: 20px;
 color:navy
  }
  .item12{
-    background-color:black;
+    background-color: red;
  }
  .item13{
     background-color: #6D9ED9;
@@ -87,7 +87,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #6D9ED9;
  }
  .item15{
-    background-color: black;
+    background-color: red;
  }
  .item16{
     background-color: #D2E5EE;
@@ -103,7 +103,7 @@ font-size: 20px;
 color:navy;
  }
  .item18{
-    background-color: black;
+    background-color: red;
  }
  h1 {
  color: white;
