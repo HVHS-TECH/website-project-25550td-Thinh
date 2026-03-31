@@ -3,10 +3,9 @@ html, body{
 }
 .container {
   display: grid;
-  grid-template-columns: auto auto auto ;
-   grid-template-rows: auto auto auto auto auto auto;
-   row-gap : 10 ;
-   column-gap : 10; 
+  grid-template-columns: auto auto auto;
+  grid-template-rows: repeat(6, auto);
+  gap: 0;
 }
 .item1{
 background-color: #6D9ED9;
@@ -152,7 +151,10 @@ color:navy;
  padding: 20px;
  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  font-size: 50px;
- 
+ }
+ h2{
+   color:red;
+   text-align: center;
  }
  p {
  color: white;
