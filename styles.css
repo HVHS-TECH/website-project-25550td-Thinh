@@ -80,3 +80,6 @@ nav a:hover {
 .card h2 {
     color: #c59d5f;
 }
+html {
+    scroll-behavior: smooth;
+}
