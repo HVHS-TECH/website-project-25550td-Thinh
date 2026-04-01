@@ -59,7 +59,7 @@ nav a:hover {
 
 /* CARD */
 .card {
-    background-color: black;
+    background-color: gray;
     padding: 20px;
     border-radius: 15px;
     text-align: center;
@@ -80,7 +80,7 @@ img {
 }
 
 .card h2 {
-    color: #c59d5f;
+    color: chocolate;
 }
 html {
     scroll-behavior: smooth;
