@@ -71,8 +71,10 @@ nav a:hover {
     box-shadow: 0 10px 25px rgba(0,0,0,0.6);
 }
 
-.card img {
+.card img,
+img {
     width: 100%;
+    background-color: gray;
     border-radius: 10px;
     margin: 15px 0;
 }
