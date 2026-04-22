@@ -46,7 +46,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #c59d5f;
+    color: white;
 }
 
 /* GRID */
@@ -80,7 +80,7 @@ img {
 }
 
 .card h2 {
-    color: chocolate;
+    color: white;
 }
 html {
     scroll-behavior: smooth;
