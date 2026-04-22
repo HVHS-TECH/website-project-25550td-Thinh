@@ -1,6 +1,22 @@
-body{
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f1ee;
     margin: 0;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: darkgreen;
-    color: white;
+    padding: 20px;
+    color: #333;
+}
+
+h1 {
+    color: #6b4f4f;
+    text-align: center;
+}
+
+h2 {
+    color: #3e2723;
+    margin-top: 30px;
+}
+
+p {
+    line-height: 1.6;
+    margin: 10px 0;
 }
