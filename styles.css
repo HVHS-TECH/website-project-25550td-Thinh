@@ -85,3 +85,8 @@ img {
 html {
     scroll-behavior: smooth;
 }
+.card {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
