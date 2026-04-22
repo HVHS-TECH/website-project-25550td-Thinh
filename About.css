@@ -13,7 +13,7 @@ header {
 }
 
 header h1 {
-    color: orange;
+    color: white;
 }
 
 .subtitle {
@@ -40,10 +40,6 @@ header h1 {
     transform: scale(1.02);
 }
 
-/* Highlight */
-.highlight {
-    border: 2px solid orange;
-}
 
 /* Button */
 .back-btn {
