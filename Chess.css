@@ -54,7 +54,7 @@ nav a:hover {
     font-size: 18px;
 }
 
-/* Content */
+
 .content {
     display: flex;
     justify-content: space-around;
@@ -75,7 +75,7 @@ nav a:hover {
     transform: scale(1.05);
 }
 
-/* Footer */
+
 footer {
     text-align: center;
     padding: 20px;
@@ -83,13 +83,31 @@ footer {
     color: #aaa;
 }
 .card-link {
-    text-decoration: none; 
-    color: inherit;        
-    display: block;        
+    text-decoration: none;
+    color: inherit;
+    display: block;  
 }
 
-.card-link:hover .card {
-    transform: scale(1.05);  
+
+.content {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 250px;
+    padding: 20px;
+    border-radius: 12px;
+    background: #2a2a2a;
+    text-align: center;
     transition: 0.3s;
+}
+
+
+.card-link:hover .card {
+    transform: translateY(-8px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.4);
     cursor: pointer;
 }
