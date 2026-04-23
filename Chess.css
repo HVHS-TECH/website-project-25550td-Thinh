@@ -83,12 +83,7 @@ footer {
     color: #aaa;
 }
 .card-link {
-    display: block;        
     text-decoration: none;
     color: inherit;
-}
-
-.card {
-    width: 100%;           
-    box-sizing: border-box; 
+    display: block;
 }
