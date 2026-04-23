@@ -83,7 +83,13 @@ footer {
     color: #aaa;
 }
 .card-link {
-    text-decoration: none;
-    color: inherit;
-    display: block;
+    text-decoration: none; 
+    color: inherit;        
+    display: block;        
+}
+
+.card-link:hover .card {
+    transform: scale(1.05);  
+    transition: 0.3s;
+    cursor: pointer;
 }
