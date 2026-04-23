@@ -43,7 +43,7 @@ nav a:hover {
 .hero {
     text-align: center;
     padding: 60px 20px;
-    background: url('https://images.unsplash.com/photo-1603297631959-6c0c7d0f5c2f') center/cover;
+    background: img src="" center/cover;
 }
 
 .hero h2 {
