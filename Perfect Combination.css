@@ -13,7 +13,7 @@ header {
 }
 
 header h1 {
-    color: orange;
+    color: white;
     margin-bottom: 10px;
 }
 
@@ -41,22 +41,21 @@ header h1 {
     transform: scale(1.02);
 }
 
-/* Highlight box */
-.highlight {
-    border: 2px solid orange;
+
+/* Navigation */
+nav {
+    display: flex;
+    justify-content: center;
+    background: #222;
 }
 
-/* Back button */
-.back-btn {
-    display: inline-block;
-    margin-top: 20px;
-    padding: 10px 20px;
-    background-color: orange;
+nav a {
     color: white;
+    padding: 15px 20px;
     text-decoration: none;
-    border-radius: 8px;
+    transition: 0.3s;
 }
 
-.back-btn:hover {
-    background-color: darkorange;
+nav a:hover {
+    background: #444;
 }
