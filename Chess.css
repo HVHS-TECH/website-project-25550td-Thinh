@@ -5,7 +5,7 @@ body {
     color: white;
 }
 
-/* Header */
+
 header {
     text-align: center;
     padding: 30px;
@@ -21,7 +21,7 @@ header p {
     color: #bbb;
 }
 
-/* Navigation */
+
 nav {
     display: flex;
     justify-content: center;
@@ -39,7 +39,7 @@ nav a:hover {
     background: #444;
 }
 
-/* Hero Section */
+
 .hero {
     text-align: center;
     padding: 60px 20px;
@@ -57,22 +57,50 @@ nav a:hover {
 
 .content {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 20px;
     padding: 40px;
     flex-wrap: wrap;
+    align-items: stretch;
 }
+
+
+.card-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
 
 .card {
-    background: #333;
-    padding: 20px;
-    margin: 10px;
     width: 250px;
-    border-radius: 10px;
-    transition: transform 0.3s;
+    min-height: 180px;
+    padding: 20px;
+    border-radius: 12px;
+    background: #2a2a2a;
+    text-align: center;
+    transition: 0.3s;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
 }
 
+
+.card h1,
+.card h2,
+.card h3,
+.card p {
+    margin: 0;
+}
+
+
 .card:hover {
-    transform: scale(1.05);
+    transform: translateY(-8px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.4);
+    cursor: pointer;
 }
 
 
@@ -81,33 +109,4 @@ footer {
     padding: 20px;
     background: #111;
     color: #aaa;
-}
-.card-link {
-    text-decoration: none;
-    color: inherit;
-    display: block;  
-}
-
-
-.content {
-    display: flex;
-    gap: 20px;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-
-.card {
-    width: 250px;
-    padding: 20px;
-    border-radius: 12px;
-    background: #2a2a2a;
-    text-align: center;
-    transition: 0.3s;
-}
-
-
-.card-link:hover .card {
-    transform: translateY(-8px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.4);
-    cursor: pointer;
 }

@@ -6,7 +6,7 @@ body {
     color: white;
 }
 
-/* HEADER */
+
 header {
     text-align: center;
     padding: 50px 20px;
@@ -21,7 +21,7 @@ h1 {
     color: Gray;
 }
 
-/* NAV */
+
 nav {
     background-color: black;
     padding: 12px 0;
@@ -49,7 +49,7 @@ nav a:hover {
     color: white;
 }
 
-/* GRID */
+
 .container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -57,7 +57,7 @@ nav a:hover {
     gap: 30px;
 }
 
-/* CARD */
+
 .card {
     background-color: gray;
     padding: 20px;

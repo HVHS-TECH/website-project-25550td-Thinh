@@ -5,7 +5,7 @@ body {
     color: white;
 }
 
-/* Header */
+
 header {
     text-align: center;
     padding: 30px;
@@ -21,7 +21,7 @@ header p {
     color: #d2b48c;
 }
 
-/* Navigation */
+
 nav {
     display: flex;
     justify-content: center;
@@ -39,7 +39,7 @@ nav a:hover {
     background: #5a3e36;
 }
 
-/* Hero Section */
+
 .hero {
     text-align: center;
     padding: 60px 20px;
@@ -54,7 +54,7 @@ nav a:hover {
     font-size: 18px;
 }
 
-/* Content */
+
 .content {
     display: flex;
     justify-content: space-around;
@@ -75,7 +75,7 @@ nav a:hover {
     transform: scale(1.05);
 }
 
-/* Footer */
+
 footer {
     text-align: center;
     padding: 20px;
